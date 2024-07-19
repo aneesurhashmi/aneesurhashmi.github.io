@@ -30,15 +30,15 @@ I am a first-year PhD candidate at Hasso-Platner Institute, University of Potsda
 **Check [google scholars](https://scholar.google.com/citations?user=qyAU-gEAAAAJ&hl=en) to see the completed list of publications.**
 
 * August 2024: Started PhD at [HPI](https://hpi.de/).
-* June 2024: One paper accepted in [MICCAI 2024]().
+* June 2024: One paper accepted in [MICCAI 2024](https://conferences.miccai.org/2024/en/).
 * June 2024: Competed MSc Machine Learning at [MBZUAI](https://mbzuai.ac.ae/).
 * May 2024: Attending [IEEE-ISBI 2024](https://biomedicalimaging.org/2024/) in Athens, Greece.
-* June 2024: Our review paper on Continual Learning for Medical Imaging is out [arXiv](https://arxiv.org/abs/2405.13482).
+* June 2024: Our review paper on Continual Learning for Medical Imaging is out on [arXiv](https://arxiv.org/abs/2405.13482).
 * May 2024: Won second prize at BraTS GoAT segmentation challenge 2024.
-* April 2024: Our paper on Realistic X-Ray generation through controllable diffusion model is out [arXiv][https://arxiv.org/abs/2403.09240v1] [code](https://github.com/BioMedIA-MBZUAI/XReal).
+* April 2024: Our paper on Realistic X-Ray generation through a controllable diffusion model is out on [arXiv](https://arxiv.org/abs/2403.09240v1) [code](https://github.com/BioMedIA-MBZUAI/XReal).
 * December 2023: Paper accepted at [IEEE-ISBI 2024](https://biomedicalimaging.org/2024/).
 * November 2023: Paper accepted in [MICAD 2023](https://www.micad.org/).
-* July 2023: Started internship at Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi
+* July 2023: Started internship at Inception Institute of Artificial Intelligence (IIAI) - [G42](https://www.g42.ai/), Abu Dhabi.
 * August 2022: Started MSc Machine Learning at [MBZUAI](https://mbzuai.ac.ae/).
 
 
