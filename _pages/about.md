@@ -35,4 +35,8 @@ I am a first-year PhD candidate at Hasso-Platner Institute, University of Potsda
 * 🚀 August 2022: Started MSc Machine Learning at [MBZUAI](https://mbzuai.ac.ae/).
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=06AfnTYpzEvlDODyTN2uHgV11pKdCt9lWCv90IXPDYg"></script>
+<div style="width: 30%; margin: 0 auto;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=06AfnTYpzEvlDODyTN2uHgV11pKdCt9lWCv90IXPDYg&cl=ffffff&w=a"></script>
+</div>
+<!-- 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=06AfnTYpzEvlDODyTN2uHgV11pKdCt9lWCv90IXPDYg"></script> -->
