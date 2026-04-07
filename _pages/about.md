@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at Hasso-Platner Institute, University of Potsdam, working under the supervision of [Prof. Christoph Lippert](https://scholar.google.com/citations?user=RVl8TE0AAAAJ&hl=en). I am part of the [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) PhD cohort 2024. I have a background in Machine Learning and Biomedical Engineering and currently work at the intersection of both fields. My research interests include vision-language models, generative models, and continual learning with particular applications in the medical imaging domain. I am currently interested in learning about the genomics basis of the phenotypes using Deep Learning. Feel free to reach out if this sounds interesting to you. You can find my resume [here](https://aneesurhashmi.github.io/files/resume.pdf).
+I am a PhD candidate at Hasso-Platner Institute, University of Potsdam, working under the supervision of [Prof. Christoph Lippert](https://scholar.google.com/citations?user=RVl8TE0AAAAJ&hl=en). I am part of the [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) PhD cohort 2024. I am interested in working on reasoning in multimodal models, with a specific focus on their anatomical understanding. Feel free to reach out at anees.hashmi@hpi.de 
 
 <!-- ## Awards -->
 <!-- 
