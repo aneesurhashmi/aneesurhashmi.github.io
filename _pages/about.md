@@ -10,20 +10,21 @@ redirect_from:
 
 I am a first-year PhD candidate at Hasso-Platner Institute, University of Potsdam, working under the supervision of [Prof. Christoph Lippert](https://scholar.google.com/citations?user=RVl8TE0AAAAJ&hl=en). I am part of the [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) PhD cohort 2024. I have a background in Machine Learning and Biomedical Engineering and currently work at the intersection of both fields. My research interests include vision-language models, generative models, and continual learning with particular applications in the medical imaging domain. I am currently interested in learning about the genomics basis of the phenotypes using Deep Learning. Feel free to reach out if this sounds interesting to you. You can find my resume [here](https://aneesurhashmi.github.io/files/resume.pdf).
 
-## Awards
-
+<!-- ## Awards -->
+<!-- 
 * 🏅 Gold Medal in B.E. Biomedical Engineering - [NEDUET](https://www.neduet.edu.pk/) 2021
 * 🏆 3rd Place in the [BraTS Adult Glioma Segmentation Challenge](https://www.synapse.org/Synapse:syn51156910/wiki/627802) - MICCAI 2023
 * 🏆 2nd Place in the [BraTS GoAT Challenge](https://www.synapse.org/Synapse:syn52939291/wiki/624518) - ISBI 2024
 * 🥈 2nd position in the Middle-East Alibaba Cloud AI Hackathon - GITEX 2023
 * 🏆 Winner Bioinformatics Hackathon - Insilico Medicine 2024
 * 🎖️ Finalist [Aspire Leaders Program](https://www.aspireleaders.org/) - Harvard Business School 2021
-* 🏆 Icon Award in Pakistan’s first Youth Leadership Conference - Markhor 2021
+* 🏆 Icon Award in Pakistan’s first Youth Leadership Conference - Markhor 2021 -->
 
 ## News
 
 **Check [google scholars](https://scholar.google.com/citations?user=qyAU-gEAAAAJ&hl=en) to see the completed list of publications.**
 
+* 🚀 Paper accepted at CVPR 2026 Findings ([Webpage](https://aneesurhashmi.github.io/anatomix/)).
 * 🚀 August 2024: Started PhD at [HPI](https://hpi.de/).
 * 📝 June 2024: One paper accepted in [MICCAI 2024](https://conferences.miccai.org/2024/en/).
 * 🎓 June 2024: Graduate with an MSc in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/).
